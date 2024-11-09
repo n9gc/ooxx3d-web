@@ -17,3 +17,5 @@ package wasm {
 		put(pos: Position): Status
 	}
 }
+
+@enduml
