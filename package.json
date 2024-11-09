@@ -1,12 +1,12 @@
 {
 	"$schema": "https://json.schemastore.org/package",
 	"private": true,
-	"name": "accurtype",
-	"description": "accurtype",
-	"license": "MIT",
-	"author": "accurtype",
+	"name": "ooxx3d-web",
+	"description": "3D 圈叉棋",
+	"license": "AGPL-3.0-or-later",
+	"author": "e0selmy4v",
 	"repository": {
-		"url": "git+https://github.com/accurtype/monodemo",
+		"url": "git+https://github.com/n9gc/ooxx3d-web",
 		"type": "git"
 	},
 	"type": "module",
